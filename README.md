@@ -6,8 +6,7 @@ https://lab.github.com/githubtraining/introduction-to-github
 >>https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL&index=1
 
 ## github page/blog management
-1. https://pages.github.com/
-
-2. 中文介紹
-3. https://wcc723.github.io/jekyll/2014/01/04/what-is-jekyll/
+https://pages.github.com/   
+中文介紹   
+https://wcc723.github.io/jekyll/2014/01/04/what-is-jekyll/
  
