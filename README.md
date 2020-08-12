@@ -7,6 +7,6 @@ https://lab.github.com/githubtraining/introduction-to-github
 
 ## github page/blog management
 https://pages.github.com/   
-中文介紹   
+中文‵介‵紹   
 https://wcc723.github.io/jekyll/2014/01/04/what-is-jekyll/
  
